@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sarita Jakhar</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-- 🔭 I’m currently studying **Mechanical Engineering at NIT Agartala**
 
-- 🌱 I’m currently learning **MERN stack**
+
+
 
 - 👯 I’m looking to collaborate on **real-life webdev projects**
 
